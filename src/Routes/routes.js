@@ -3,7 +3,6 @@ import React from "react";
 import {
   BrowserRouter as Router,
   Switch,
-  NavLink,
   Route,
   Link,
   useRouteMatch,
@@ -84,11 +83,11 @@ const Routes = () => {
           </ul>
           <div id="copy-box">
             <a
-              href="https://www.instagram.com/espelhoinvertido"
+              href="https://scriptcamilo.dev"
               target="blank"
               id="copyright"
             >
-              &copy; Espelho Invertido
+              &copy; scriptcamilo
             </a>
           </div>
         </Drawer>
