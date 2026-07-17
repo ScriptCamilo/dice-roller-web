@@ -12,10 +12,6 @@
  <a href="#-license">Useful Links</a> • 
 </p>
 
-<p align="center">
-  <img src="src/assets/readme/dice-roller.gif"/>
-</p>
-
 <hr />
 
 <h4 align="center"> 
@@ -28,10 +24,15 @@
 -   [x] User can use a max and min value to generate a specific value.
 -   [x] User can change between dice colors.
 
-### 🛠 Technologies <a id="-tech"></a>
+## 🛠 Technologies <a id="-tech"></a>
 
 The following tools was used in this project:
 - [React JS](https://https://reactjs.org/)
+
+# Demo
+<p align="center">
+  <img src="src/assets/readme/dice-roller.gif"/>
+</p>
 
 ## Getting started <a id="-start"></a>
 
